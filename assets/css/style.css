@@ -1,0 +1,24 @@
+h1 {
+    background-color: cornflowerblue;
+    font-size: 72px;
+    color: yellow;
+    border: solid black 5px;
+    margin: 20px auto;
+    text-align: center;
+}
+body {
+    background-image: url('../images/racket.jpg');
+    
+   
+}
+p {
+    padding:30px;
+    font: garamond;
+    font-size: 24px;
+    color: black;
+    background-color: cornflowerblue;
+    margin-top: 50px;
+    color: yellow;
+    text-align: center;
+    
+}
